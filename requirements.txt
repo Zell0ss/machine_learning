@@ -5,3 +5,7 @@ ipython==7.10.1
 scikit-learn==0.22
 jupyter==1.0.0
 statsmodels
+beautifulsoup4
+html5lib
+lxml
+spacy
